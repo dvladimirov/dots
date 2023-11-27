@@ -1,0 +1,5 @@
+require("core.lazy")
+require("core.autocmds")
+require("lazy").setup("plugins")
+require("core.keymaps")
+require("core.options")
